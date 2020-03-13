@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(307): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(552): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(556): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(563): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(491): warning C4715: 'Menu::PlayerMode': not all control paths return a value
+C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\ConsoleApplication1\ConsoleApplication1.cpp(402): warning C4715: 'Player::Choose': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\suruw\OneDrive\Programowanie\C++\Projekt\Krieg\Debug\ConsoleApplication1.exe
